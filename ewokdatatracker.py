@@ -42,3 +42,6 @@ for ewok_name, ewok_info in ewok_tribe.items():
     print(f"\nEwok: {ewok_name}")
     for key, value in ewok_info.items():
         print(f"{key}: {value}")
+
+
+###### Pizza
